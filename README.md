@@ -1,3 +1,3 @@
 # Haskell
 
-haskell algoritms
+haskell algorithms for multiple uses.
